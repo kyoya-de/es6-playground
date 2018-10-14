@@ -1,0 +1,13 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "browser-sync start -ws --ignore node_modules --ignore .idea"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.0"
+  }
+}
